@@ -8,13 +8,11 @@ public class PresidentDAOFileImpl implements PresidentDAO {
 
   @Override
   public President getPresidentByTermNumber(int term) {
-    // TODO Auto-generated method stub
     return null;
   }
 
   @Override
   public List<President> getAllPresidents() {
-    // TODO Auto-generated method stub
     return null;
   }
 
